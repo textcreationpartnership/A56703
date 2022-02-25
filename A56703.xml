@@ -1,0 +1,396 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Lords spiritual &amp; temporal, in the Abby-Church at Westminster, on the 26th of Novemb. 1691 being the Thanksgiving-day for the preservation of Their Majesties, the success of their forces in the reducing of Ireland, and for the King's safe return / by ... Symon Lord Bishop of Ely.</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56703</idno>
+            <idno type="STC">Wing P850</idno>
+            <idno type="STC">ESTC R20816</idno>
+            <idno type="EEBO-CITATION">12610758</idno>
+            <idno type="OCLC">ocm 12610758</idno>
+            <idno type="VID">64358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64358)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 771:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Lords spiritual &amp; temporal, in the Abby-Church at Westminster, on the 26th of Novemb. 1691 being the Thanksgiving-day for the preservation of Their Majesties, the success of their forces in the reducing of Ireland, and for the King's safe return / by ... Symon Lord Bishop of Ely.</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>[4], 30, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half title: The Bishop of Ely's thanksgiving-sermon before the House of Lords.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Deuteronomy IV, 9 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="order">
+            <pb facs="tcp:64358:1"/>
+            <head>Die Sabbathi, 28 Novemb. 1691.</head>
+            <p>IT is Ordered by the Lords Spiritual and Temporal, in Parliament Aſſembled, That the Thanks of this Houſe ſhall be, and is here<g ref="char:EOLhyphen"/>by given to the Lord Biſhop of <hi>Ely,</hi> for his Sermon Preached on <hi>Thurſday</hi> laſt, before this Houſe in the <hi>Abby-Church</hi> at <hi>Weſtminiſter,</hi> and he is hereby Deſired to Print and Publiſh the ſame.</p>
+            <closer>
+               <signed>MATH. JOHNSON, Cler. Parliamentor.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:64358:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the <hi>Lords Spiritual &amp; Temporal,</hi> IN THE ABBY-CHURCH at <hi>Weſtminſter,</hi> On the <hi>26th</hi> of NOVEMB. 1691.</p>
+            <p>BEING THE <hi>Thankſgiving-Day</hi> FOR THE Preſervation of Their MAJESTIES: The Succeſs of Their Forces in the Reducing of IRELAND: And for the KING'S Safe RETURN.</p>
+            <p>By the Right Reverend Father in God, SYMON Lord Biſhop of ELY.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Ric. Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. MDCXCI.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:64358:2" rendition="simple:additions"/>
+            <p>The Biſhop of <hi>ELY</hi>'s THANKSGIVING—SERMON BEFORE THE Houſe of LORDS.</p>
+            <pb facs="tcp:64358:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:64358:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:64358:4"/>
+            <pb n="1" facs="tcp:64358:4"/>
+            <head>A SERMON Preached before the HOUSE of LORDS, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <bibl>DEUT. IV. 9.</bibl>
+               <q>Only take heed to thy ſelf, and keep thy ſoul diligently, leſt thou forget the things which thine eyes have ſeen, and leſt they depart out of thy heart, all the days of thy life.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE <hi>Jewiſh</hi> Nation being repreſented to us, by St. <hi>Paul,</hi> as our <hi>Types</hi> and <hi>Examples;</hi> and their Hiſtory being written (as he informs us, 1 <hi>Cor.</hi> X. 11.) <hi>For our admonition upon whom the ends of the world are come;</hi> We cannot have a more ſure direction for the preſervation and continuance of thoſe great Bleſſings, which we come, this day, to acknowledg with Praiſes and Thankſgivings, than from the In<g ref="char:EOLhyphen"/>ſtruction which God himſelf here gives to that People by his Servant <hi>Moſes,</hi> in the Concluſion of his Mini<g ref="char:EOLhyphen"/>ſtryamong them.</p>
+            <pb n="2" facs="tcp:64358:5"/>
+            <p>They had ſeen ſtrange things, ſuch as no Age had produced the like ſince the Creation of the World.</p>
+            <p>They beheld innumerable ſigns, and Tokens of a Divine Preſence with them; and were ſurrounded with ſo many amazing proofs of an extraordinary Pro<g ref="char:EOLhyphen"/>vidence over them; that they could not doubt of God's ſingular favour towards them, nor of the continuance of his Divine Protection: Who doth not love to leave his own work imperfect, but deſigns to finiſh what he hath moſt graciouſly begun.</p>
+            <p>The only danger was, leſt they ſhould <hi>forget all that their eyes had ſeen;</hi> or be ſo negligent as not to <hi>lay to heart</hi> the great goodneſs of the Lord: Againſt which <hi>Moſes</hi> here gives them this Caution, <hi>Only take heed to thy ſelf, and keep thy ſoul diligently,</hi> &amp;c.</p>
+            <p>And truly this is the only thing that we have to fear: Who are a People alſo ſaved by the Lord, a People who have ſeen his wonderful works; and may ratio<g ref="char:EOLhyphen"/>nally hope to ſee further effects of his Almighty Mer<g ref="char:EOLhyphen"/>cy: if we be not ſo ſenſleſly careleſs as to let the Me<g ref="char:EOLhyphen"/>mory of what God hath done for us ſlip out of our Minds, and leave no impreſſions upon our Hearts. Which would load us with ſo foul a Guilt, that God might juſtly abandon us to all the Evils from which he hath delivered us; and let us periſh, even after we have been ſaved by his ſpecial Providence.</p>
+            <p>I cannot therefore do you better ſervice, than to preſs upon you, this weighty Admonition of <hi>Moſes,</hi> the man of God, as the moſt certain means of our pre<g ref="char:EOLhyphen"/>ſervation, and the beſt expreſſion of our gratitude, <hi>Only take heed to thy ſelf, and keep thy ſoul diligently, leſt thou forget the things which thine eyes have ſeen, and leſt they depart out of thy heart, all the days of thy life.</hi>
+            </p>
+            <pb n="3" facs="tcp:64358:5"/>
+            <p>In which words it is eaſy to obſerve <hi>two</hi> things.</p>
+            <p>
+               <hi>Firſt,</hi> it is here too plainly ſuppoſed, that men are very apt to forget, even thoſe Wonderful works, which they have ſeen with their own eyes. Other<g ref="char:EOLhyphen"/>wiſe, there would have been no need of ſuch great Caution, as is here given to the <hi>Jews,</hi> to <hi>take heed;</hi> and not only take heed, but to <hi>keep their Soul;</hi> nay, to keep it <hi>diligently,</hi> leſt they ſhould forget what their eyes had ſeen. For without <hi>heed,</hi> and <hi>diligent</hi> heed, and careful obſervance of themſelves; he knew theſe things would ſoon ſlip out of their thoughts, and be no more remembred. And therefore,</p>
+            <p>
+               <hi>Secondly,</hi> we ought to uſe our moſt ſerious indea<g ref="char:EOLhyphen"/>vours not to <hi>forget</hi> them; no, not to forget them, <hi>as long as we live:</hi> But to preſerve the remembrance of them, to the very end of our days. For ſo it follows in the laſt clauſe, <hi>leſt they depart out of thy heart all the days of thy life.</hi>
+            </p>
+            <p>Which being the Principal thing here intended, it is fit I ſhould begin with that; and reſerve the ſuppo<g ref="char:EOLhyphen"/>ſal, as an argument to inforce this duty, if I have time for it. <hi>Therefore we ought to take care to keep in mind the things which our eyes have ſeen; becauſe we are very prone to forget them.</hi>
+            </p>
+            <p>Now when he bids us take heed leſt we <hi>forget</hi> them; it is as much as if he had charged us to <hi>remember</hi> them. And to <hi>remember</hi> them is not barely to <hi>call</hi> them to mind, or to <hi>keep</hi> them in mind; but to have our hearts alſo duly affected with them. For in the Holy lan<g ref="char:EOLhyphen"/>guage, all ſuch words as this, which belong to the <hi>mind,</hi> include the <hi>Affections:</hi> and ſuch <hi>Actions</hi> alſo as
+<pb n="4" facs="tcp:64358:6"/> are agreeable to ſuch Affections. To omit the many inſtances there are of this in the Book of God, <hi>Moſes</hi> himſelf here gives us this Explication of his own words: When he charges the <hi>Iſraelites</hi> to take heed leſt the things they had ſeen did depart out of <hi>their heart,</hi> all the days of their life. There (in the <hi>heart</hi>) they were to preſerve ſuch an affectionate remem<g ref="char:EOLhyphen"/>brance of them; as never to forget to perform the duties unto which they were obliged by ſuch won<g ref="char:EOLhyphen"/>derful works as God had done, to engage them to him.</p>
+            <p>Now this being premiſed, I have nothing to do but to conſider,</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> What the things were, that <hi>their</hi> eyes had ſeen.</item>
+               <item>2 And then <hi>Secondly,</hi> I ſhall be your <hi>Remem<g ref="char:EOLhyphen"/>brancer,</hi> by ſetting before you a few of the things that <hi>our</hi> eyes likewiſe have be<g ref="char:EOLhyphen"/>held.</item>
+               <item>3. And Laſtly, ſhew you what ſuitable <hi>Af<g ref="char:EOLhyphen"/>fections</hi> ought to be in our hearts, and what <hi>behaviour</hi> becomes thoſe (or how they ought to live) who have ſeen ſuch things.</item>
+            </list>
+            <p>1. As for the <hi>Firſt</hi> of theſe, the things which the <hi>Iſraelites</hi> had ſeen were of <hi>two</hi> ſorts: For they had been in very great <hi>dangers;</hi> and they had received as great <hi>Deliverances.</hi> Both of theſe are ſo well known, that I need but briefly touch them.</p>
+            <pb n="5" facs="tcp:64358:6"/>
+            <p>Nothing is more famous in their Story then the Affliction which they ſuffered a long time in the land of <hi>Aegypt.</hi> Where they groaned under ſuch heavy burdens; that when God ſent a De<g ref="char:EOLhyphen"/>liverer to them, <hi>they hearkned not unto him, for an<g ref="char:EOLhyphen"/>guiſh of Spirit, and for cruel bondage,</hi> VI. Exod. 9. that is, they were to oppreſſed, they could not think, much leſs hope for any relief. From which they were no ſooner redeemed, but they fell into ſuch diſmal ſtraits at the red Sea, that they utterly deſpaired of ſafety. And when they had paſſed that danger, <hi>Amalek</hi> came forth with all his power, to oppoſe their paſſage through the Wilder<g ref="char:EOLhyphen"/>neſs. Where they were ſo diſtreſſed with Hunger and with Thirſt, that they wiſht themſelves in <hi>Aegypt</hi> again, rather then dye in the Deſert, as they fan<g ref="char:EOLhyphen"/>cied they muſt for want of Food.</p>
+            <p>Theſe were ſome of their dangers: in all which they found God wonderfully merciful unto them. For they were delivered out of the Land of <hi>Aegypt,</hi> the Houſe of Bondage, with a mighty Hand and a ſtretched out Arm. The Red Sea opened a way for them to walk through it, on dry ground. He gave them a Glorious Victo<g ref="char:EOLhyphen"/>ry over <hi>Amalek:</hi> Which he ordered <hi>Moſes</hi> to Record in a Book, for a Memorial. He made water to guſh out of a Rock; which followed them in a perpetual Stream, to give them Drink: And he ſhowred down Bread from Heaven upon them, for to eat.</p>
+            <p>Theſe and ſuch like were the Difficulties and the Deliverances, which their Eyes had ſeen: and which it concerned them never to forget.</p>
+            <pb n="6" facs="tcp:64358:7"/>
+            <p>2. And ſome things like to theſe have our eyes beheld; and this ſo lately, that it may well be expected they ſhould be in our memory: I wiſh they have not <hi>departed from our hearts.</hi> Which were this time <hi>three</hi> Year, very ſenſible of the great danger wherein we were of being thrown, into a worſe than <hi>Aegyptian</hi> Bondage. For we ſaw our Laws ſo boldly violated and trampled under Feet, that we could not but fear the loſs of all our Liberties. Many Loyal Perſons were turned out of their Freeholds, without any legal Proceſs: Several of our <hi>Biſhops</hi> impriſoned, and afterwards indicted as Malefactors; not for any Evil they had done, but merely for making an humble Petition, that they might be permitted not to do, what they thought to be Evil. We ſaw the main body of the <hi>Clergy</hi> in the ſame danger: moſt men thrown out of <hi>Civil and Mili<g ref="char:EOLhyphen"/>tary imployments,</hi> who would not help to enſlave their fellow Subjects: all our <hi>Corporations</hi> ſub<g ref="char:EOLhyphen"/>verted; and their Rights and Liberties deſtroyed: a great many men put into places of the <hi>higheſt truſt;</hi> who, by the Laws, were not capable of any truſt at all.</p>
+            <p>We ſaw likewiſe <hi>Maſs-Houſes</hi> ſet up in ſeveral parts of the Kingdom: <hi>Popiſh Seminaries</hi> openly erected: Four <hi>Romiſh Biſhops</hi> ordained, who took upon them to exerciſe the <hi>Papal Juriſdiction,</hi> in all the Quarters of this Realm. Where all man<g ref="char:EOLhyphen"/>ner of endeavours were uſed, by threats and pro<g ref="char:EOLhyphen"/>miſes, to draw men to aſſiſt unto their own de<g ref="char:EOLhyphen"/>ſtruction; by taking away all our Legal fences and ſecurities. In one word, we ſaw the very foun<g ref="char:EOLhyphen"/>dations
+<pb n="7" facs="tcp:64358:7"/> of our <hi>Ancient Government</hi> about to be raſed, and in great meaſure overturned: the whole <hi>Kingdom</hi> of <hi>Ireland,</hi> actually put into the power of Romiſh Butchers; who in the memory of many of us imbrewed their hands in the blood of our Proteſtant Brethren there: having <hi>Maſſa<g ref="char:EOLhyphen"/>creed</hi> above an hundred Thouſand of them, in a time of perfect peace, when they had no ſuſpition of any harm from them.</p>
+            <p>This is a ſhort Repreſentation of the dangers in which we lately were; which I hope we have not quite forgotten: For then God may juſtly throw us back again into them, after he hath in a wonderful manner reſcued us out of them.</p>
+            <p>For, behold! when we were in this diſtreſs and ſo perplexed, that we knew not what to do; when all faces, as the Prophet ſpeaks, were turned into Paleneſs, and mens hearts failed them for fear of what was coming upon them; God ſent deliverance unto us by a great PRINCE: Whoſe Heroick Spirit was ſtirred up to venture his Perſon, and all his worldly intereſt, to free us from our impendent dangers.</p>
+            <p>Many things ſtrangely concurred to favour his deſign. The very Wind and the Sea were fa<g ref="char:EOLhyphen"/>vourable to him. God bowed the hearts of all the people of theſe Realms, as one man, to wiſh well to him; and the hearts of many to aſſiſt him. Never was there a more Univerſal conſent to any enterpriſe: never was any more eaſily ſucceſsful. All oppoſition, in a ſhort time
+<pb n="8" facs="tcp:64358:8"/> vaniſhed: The Forces that were raiſed to enſlave us, helpt to deliver us. In brief, a long laid deſign, which had been cunningly managed for many years, and ſo craftily carried on, that it was almoſt brought to perfection before it was generally perceived, was blown away and daſhed in pieces, like a buble, in an inſtant.</p>
+            <p>This certainly was the Lords doing; and ought to be had in everlaſting Remembrance. Eſpeci<g ref="char:EOLhyphen"/>ally when we conſider by how long a Chain of wonderful Providences God, hath hitherto ſe<g ref="char:EOLhyphen"/>cured this great Deliverance to us. No year hath paſſed ſince this happy Revolution, where<g ref="char:EOLhyphen"/>in we have not ſeen moſt remarkable Inſtances of his Watchful care over us. And this year hath crowned them all, by the extraordinary ſucceſs, with which God hath bleſſed Their Ma<g ref="char:EOLhyphen"/>jeſties Forces in <hi>Ireland.</hi> Where all the Armies of the Enemy are vanquiſhed; their ſtrong Holds taken or Surrendred; the very Robbers have for<g ref="char:EOLhyphen"/>ſaken the Woods and Faſtneſſes, to put them<g ref="char:EOLhyphen"/>ſelves under the Protection of Their Majeſties, and ſubmit to their Government. This reduction of that Kingdom, hath been attended with ſo many ſtrange Circumſtances, that all conſidering per<g ref="char:EOLhyphen"/>ſons, who are acquainted with them, cannot but acknowledge the hand of Heaven therein.</p>
+            <p>Which hath appeared alſo in the merciful Pre<g ref="char:EOLhyphen"/>ſervation of <hi>His Majeſties</hi> Royal Perſon, from all the dangers to which he was expoſed during his late expedition abroad: in the Protection of the <hi>Queen,</hi> and defeating all deſigns of giving us di<g ref="char:EOLhyphen"/>ſturbance
+<pb n="9" facs="tcp:64358:8"/> here at home: and in the bringing back his Majeſty to us in health and ſafety.</p>
+            <p>By which means we are preſerved in the peace<g ref="char:EOLhyphen"/>able poſſeſſion of thoſe Bleſſings, which of all other are the moſt valuable; and which we hope will be ſecured to our Poſterity, as the beſt Inheritance we can leave them: our <hi>Holy Religion,</hi> and the <hi>Eng<g ref="char:EOLhyphen"/>liſh Liberties</hi> Yea, our very Lives, we ought to conſider, are redeemed from deſtruction by this Signal Deliverance, which God hath wrought for us. For in a little time, if he had not moſt graci<g ref="char:EOLhyphen"/>ouſly interpoſed, They would have been at the mercy of our cruel Enemies: unleſs we had left our own dear Country, and ſled for ſafety, as the <hi>French</hi> Proteſtants were forced to do, into Forreign places. And yet, alas! whether we ſhould have fled would have been hard to find: For all other Proteſtant Churches would have been undone together with us, and preſently buried in our Ruines.</p>
+            <p>Can we be unmindful of ſuch a <hi>Deliverance</hi> as this? or inſenſible of the great Goodneſs of God, who hath preſerved us, from loſing all the happy fruits of it, by the marvellous ſucceſſes God hath hath given to their Majeſties Arms in <hi>Ireland,</hi> this Summer?</p>
+            <p>Can we forget thoſe frightful dangers which we have eſcaped; which would have been ten times more dreadful, had we relapſed into them? Shall we be ſo ſtupid as to have no more ſenſe than the Beaſts, which think of no danger, but juſt when it ſtares them in the face? This would be the greateſt dan<g ref="char:EOLhyphen"/>ger of all. And therefore let us ſeriouſly conſider
+<pb n="10" facs="tcp:64358:9"/> how we ought to be affected both with our paſt <hi>Dangers,</hi> and with our late <hi>Deliverances:</hi> that we may behaveour ſelves ſuteable to the obligations that are up<g ref="char:EOLhyphen"/>on us. Which is the laſt thing I propounded to be con<g ref="char:EOLhyphen"/>ſidered; in purſuance of this caution given by <hi>Moſes</hi> of old, which concerns us as much now, that we <hi>take heed to our ſelves leſt we forget the things which our Eyes have ſeen, and leaſt they depart out of our Hearts all the days of our Life.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>And <hi>firſt</hi> let us reflect upon our <hi>Dangers;</hi> and ſeriouſly conſider what the Remembrance of them requires of us. To which if we apply our ſelves, theſe <hi>three</hi> things will immediately offer themſelves to our thoughts.</p>
+               <p>
+                  <hi>Firſt,</hi> That we ought to repent of thoſe <hi>Sins,</hi> which brought us into them:</p>
+               <p>
+                  <hi>Secondly,</hi> Make good thoſe pious <hi>Reſolutions,</hi> which, it is to be hoped, we made in the time of our diſtreſs.</p>
+               <p>
+                  <hi>Thirdly,</hi> Abhor the <hi>Spirit of Popery,</hi> which turns the World up ſide-down, and to ſettle it ſelf, puts all things into confuſion.</p>
+               <p>For the <hi>firſt</hi> of theſe, it is very proper on ſuch a Day as this, to call our ſelves to an account, and examine wherein we have any way offended God, that we may be humbled for it, and repent of it: becauſe, as our Sins brought us into all the forementioned Dangers, and if they be not amended will throw us into new ones, which may prove our utter undoing; ſo
+<pb n="11" facs="tcp:64358:9"/> the due Conſideration of them will ſerve to mag<g ref="char:EOLhyphen"/>niſie the goodneſs of God and raiſe our thankful<g ref="char:EOLhyphen"/>neſs unto him, who, notwithſtanding our high Provocations, was pleaſed, of his infinite Mercy, to deliver us.</p>
+               <p>There is no Sin of which we have been guilty, but contributed more or leſs to our late dangers; but ſome Sins led us directly into them. I will mention a few.</p>
+               <p>
+                  <hi>Firſt,</hi> our remiſſneſs in Religion: in which ſome among us were ſo far gone, as to ſay, they could diſcern no ſuch great difference between <hi>us</hi> and <hi>Rome,</hi> that we need make a Conteſt about it. This was very comfortable News, no doubt, to thoſe of the <hi>Romiſh</hi> Faction; and gave them no ſmall incouragement, to attempt what our Eyes have ſeen.</p>
+               <p>2. And ſo did the coldneſs and careleſſneſs which was too notorious, in many places in the Duties of Religion: Scarce an handful of People appearing in many <hi>Churches</hi> at Divine Service, when the <hi>Play-houſes</hi> were crowded every Day with nu<g ref="char:EOLhyphen"/>merous Spectators. This I make no queſtion, em<g ref="char:EOLhyphen"/>boldned their hopes of prevailing; for why ſhould not any Religion ſerve thoſe, who made lit<g ref="char:EOLhyphen"/>tle or no uſe of Religion?</p>
+               <p>As we love our Souls, or tender our wordly intereſt, let theſe things be amended. Let us grow more in love with our Religion; and let us expreſs it, in greater Devotion, and more frequent attendance upon all the Duties of God's Worſhip and Service. For it is impoſſible to be eminent in any other vertue, if we be negligent in this. <hi>Neceſſe eſt virum bonum, ſummae ergà Deum pietatis eſſe,</hi> as <hi>Cicero</hi> himſelf truly reſolves. It
+<pb n="12" facs="tcp:64358:10"/> is abſolutely neceſſary that a good Man, have the higheſt piety towards God; without which he cannot be good.</p>
+               <p>3. And this no doubt hath been the great Source of all the Wickedneſs, which hath aboun<g ref="char:EOLhyphen"/>ded among us; that Men ſo ſeldom think of God, and ſo little regard the ſolem Performance of the Duties belonging to his Worſhip and Service. I will not mention the <hi>infamous Debaucheries,</hi> that have been committed in many places; whereby our Religion was diſhonoured and endangered.</p>
+               <p>4. There is another thing of which ſoberer Perſons have been too guilty; in their extream ſeverity towards thoſe, who differed from them in ſome things; though in moſt they perfect<g ref="char:EOLhyphen"/>ly agreed. Which hath proceeded to ſuch a a degree of Rage; that generally we were more kind to <hi>Papiſts,</hi> than we were to one another. This was the very thing that made them ſo bold and confident in their attempts upon our Religion and Liberties: Which they ſaw we our ſelves were deſtroying by our mutual hatreds.</p>
+               <p>Theſe hatreds were the very Foundation, upon which they built their Hopes. Theſe were the Engines which they managed, with all their arts to accompliſh our Ruine. For the bitter ſtrife and contention, which enſued hereupon, our zealous Endeavours to undue one another (even when we differed only about <hi>Civil,</hi> not <hi>Religious</hi> Matters) were ſtrong Invitations, and manifeſt Opportuni<g ref="char:EOLhyphen"/>ties, to the common Enemy, to make their Aſ<g ref="char:EOLhyphen"/>ſaults upon us: Seeing ſuch a wide Breach opened by our ſelves, at which they might eaſily enter.</p>
+               <pb n="13" facs="tcp:64358:10"/>
+               <p>5. What ſhall I ſay of that baſe <hi>Selfiſhneſs</hi> which hath reigned among us? That inordinate Affection to Mens own Private Intereſt, ſeparate from the Pub<g ref="char:EOLhyphen"/>lick Good and the Love of their Country? This mo<g ref="char:EOLhyphen"/>ved too many to go along with the <hi>Popiſh</hi> Faction, and lend them their helping hand in divers things; which they could not but ſee manifeſtly tended to our undoing: A Sin which the very <hi>Heathens</hi> ab<g ref="char:EOLhyphen"/>horrd: Who could not be tempted to betray their Country.</p>
+               <p>
+                  <hi>Laſtly,</hi> That bad diſpoſition of Mind, mentioned by our Saviour, in the concluſion of all thoſe evil things that proceed out of the Heart of Man, <hi>viz.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>Fooliſhneſs,</hi> (we tranſlate it) or <hi>Inconſide<g ref="char:EOLhyphen"/>rateneſs,</hi> hath had no ſmall hand in our Dangers<g ref="char:punc">▪</g> 
+                  <hi>Mark</hi> VII. 21. <hi>From within<g ref="char:punc">▪</g> out of the heart of man<g ref="char:punc">▪</g> proceed evil thoughts<g ref="char:punc">▪</g> adulteries, fornications, murders, thefts, covetouſneſs, wickedneſs, deceit, laſciviouſneſs, an evil eye, blaſphemy, pride, FOOLISHNESS;</hi> theſe defile a Man. There is no Nation I know of, wherein this Vice of <hi>Inconſideration</hi> hath had greater Power than in ours. Where we have been ſo <hi>foo<g ref="char:EOLhyphen"/>liſh</hi> (to omit other Inſtances, which I am loth to name) as to ſuffer our ſworn Enemies to make us their Tools; and would not ſee how they ma<g ref="char:EOLhyphen"/>naged us, to work our Deſtruction by our own Hands.</p>
+               <p>For having taken great care, long ago, that our Diviſions ſhould not be healed, ſometimes they courted one Party to fall upon the other: And then turned about, and courted the contrary Party to take their Revenge for it. Sometimes the Laws muſt be put in execution, with all ima<g ref="char:EOLhyphen"/>ginable
+<pb n="14" facs="tcp:64358:11"/> ſtrictneſs; and then this ſtrictneſs muſt be condemned as Anti-chriſtian Rigour againſt our Bre<g ref="char:EOLhyphen"/>thren.</p>
+               <p>Sometimes we were the Favourites; and after a ſhort Courtſhip beſtowed upon us, we were turned off, and our Brethren that diſſent from us were complemented, as if they had been the only Dar<g ref="char:EOLhyphen"/>lings! Thus they play'd us one againſt another a long time, and we were ſo blind as not to ſee what they were a-doing. We could not, or would not underſtand, that they loved none of us; but de<g ref="char:EOLhyphen"/>ſigned the utter Ruin of us all. And this in the vi<g ref="char:EOLhyphen"/>leſt and moſt infamous manner; by making us the Inſtruments of our own Deſtruction; unto which we contributed with all our Might, by our fierce Oppoſitions, and violent Claſhings one againſt ano<g ref="char:EOLhyphen"/>ther.</p>
+               <p>Of which Folly we ought moſt heartily to Re<g ref="char:EOLhyphen"/>pent, together with all thoſe other Sins I have men<g ref="char:EOLhyphen"/>tioned; as endangering the loſs of two of the moſt precious things in the whole World, <hi>Religion</hi> and <hi>Liberty:</hi> But we do not truly Repent of theſe Sins, un<g ref="char:EOLhyphen"/>leſs we become more Zealous, both <hi>for</hi> our Religion and <hi>in</hi> it; more <hi>kindly affectioned</hi> one towards ano<g ref="char:EOLhyphen"/>ther in Brotherly Love; more <hi>publick ſpirited</hi> alſo, not <hi>ſeeking meerly our own things, but every one alſo the things of others,</hi> i. e. the Common Good; and be likewiſe at greater Unity among our ſelves, by Loving one another with a <hi>pure Heart fervently.</hi>
+               </p>
+               <p>Of this let us take a ſpecial care, leſt our Affecti<g ref="char:EOLhyphen"/>ons (which ſeemed to be diſpoſed to Reconciliati<g ref="char:EOLhyphen"/>on) be again alienated one from another, by our preſent Differences. What? cannot we differ in
+<pb n="15" facs="tcp:64358:11"/> Opinion, but we muſt declare War one againſt ano<g ref="char:EOLhyphen"/>ther? Or muſt we break off all Friendſhip and Kindneſs, yea, all Acquaintance and Converſation, and look upon one another as <hi>Infidels?</hi> Nay, I think we ought to have a greater Kindneſs for <hi>Infi<g ref="char:EOLhyphen"/>dels,</hi> than many of us had one for another, in our former Differences and Contentions. Which, for God's ſake, let us not act over again. If we can<g ref="char:EOLhyphen"/>not Agree, yet let us not Quarrel; no, nor be An<g ref="char:EOLhyphen"/>gry; much leſs furiouſly bent againſt thoſe who are not of our Mind; nor paſs hard Cenſures on thoſe, as Men of no Conſcience, who (for inſtance) have endeavoured, by the beſt and moſt juſtifiable means, as they think, to preſerve the Reformed Re<g ref="char:EOLhyphen"/>ligion, and the <hi>Engliſh</hi> Liberties. For ſuch Cenſu<g ref="char:EOLhyphen"/>ring looks like Raving; and that's no good ſign Men are in the right.</p>
+               <p>Let us learn at laſt, to be Sober and Wiſe, to Love one another, and to live in Peace; and the God of Love and Peace will be with us.</p>
+               <p>In the time of our Diſtreſs, I cannot but hope, we had very good Reſolutions about ſuch matters, and intended hereafter to be more moderate. Let us now therefore make them good.</p>
+               <p>II. Which is the <hi>Second</hi> thing I intended to preſs under this Head. It is ſcarce poſſible for a Man when he is in great Danger, not to conſider his ways, and to reſolve he will avoid thoſe things which evidently brought him into it: Nay, to make Vows, that he will remember thoſe Holy Reſoluti<g ref="char:EOLhyphen"/>ons. There was great Reaſon, I am ſure, for every one ſo to do. We were ſtrangely falſe to God, and
+<pb n="16" facs="tcp:64358:12"/> to our own Souls, if the Methods of his Providence wrought no ſuch Pious Purpoſes in us: And if we do not now make them good, we are ſtrangely falſe alſo to our own Promiſes and Vows.</p>
+               <p>If one might judge of all Places in the Kingdom, by ſome; one would conclude, that as our Coldneſs and Careleſsneſs in Religion had brought us into great Dangers, ſo our Dangers had quickned many Souls to greater Fervency and Zeal. For we ſaw our Churches filled, our Communions thronged, with larger Aſſemblies; as if the Fear that was upon us, had moved us to flee to the Table of the Lord ſon Sanctuary, as <hi>Joab</hi> did to the Horns of the Al<g ref="char:EOLhyphen"/>tar. God forbid, that any ſuch Souls ſhould ever hereafter forget thoſe Fears; or forget thoſe Reſo<g ref="char:EOLhyphen"/>lutions which their Fears created, of being more Di<g ref="char:EOLhyphen"/>ligent and Devout in God's Service. Take heed, I beſeech you, leſt you live to ſee the Day, when all the Apprehonſions you had of God, and of your Duty to him are vaniſhed, and you are fall'n back into your former Remiſsneſs. For what can bring you out of it again, but ſome ſuch Danger? And do you either <hi>deſire</hi> or <hi>hope</hi> or <hi>fear</hi> to ſee ſuch Dan<g ref="char:EOLhyphen"/>gers again, as you have lately ſeen? I am ſure you do not, you cannot <hi>deſire</hi> it: And you cannot hope for that which you cannot deſire: And if you <hi>fear</hi> ſuch a time may come again, it is becauſe you re<g ref="char:EOLhyphen"/>ſolve to deſerve it, by continuing thoſe Sins, which brought you into ſuch Diſtreſſes.</p>
+               <p>Conſider, I beſeech you, did we not, for inſtance, ſeem all inclined to be at peace one with another? Did we not, at length, begin to reflect with grief upon our zealous Folly, in our indiſcreet behaviour
+<pb n="17" facs="tcp:64358:12"/> (to ſay no worſe) one towards another, upon the account of the differences that were among us? Did we not reſolve to be Friends, upon ſome Terms or other, to forget what was paſt, and to joyn toge<g ref="char:EOLhyphen"/>ther heartily, for our mutual ſafety and preſer<g ref="char:EOLhyphen"/>vation? And do we now break out again into the ſame Outrages, as if we had been wholly ſtrangers to all ſuch good Diſpoſitions? Do our Spirits boyl up with Anger, at the very mention of Reconcilia<g ref="char:EOLhyphen"/>tion? As if we had no Reſolutions, but to return to our former Animoſities and Enmities; to rake into all Miſcarriages; revenge all the Wrongs that have been done us; renew our ancient Strife and Contention, Wrath and Bitterneſs, and all the reſt of thoſe Sins, which brought us to the very brink of Deſtruction?</p>
+               <p>What can we think then will become of us; ha<g ref="char:EOLhyphen"/>ving, by the dangers into which theſe Sins threw us, ſeen ſuch reaſon to reform them, as I hope we ſhall never ſee again? If they be not amended by what we have ſeen, we ſhall be in danger to pe<g ref="char:EOLhyphen"/>riſh in our Sins.</p>
+               <p>For ſhould we fall into new dangers of that kind, which we have already ſeen, they will not, in all probability, be intended to <hi>reform</hi> us, but to <hi>ruin</hi> us.</p>
+               <p>But I muſt proſecute this no further, becauſe there is a <hi>Third</hi> thing, which deſerves to be preſſed lon<g ref="char:EOLhyphen"/>ger, than I have time for it.</p>
+               <p>III. Learn, I beſeech you, by the dangers where<g ref="char:EOLhyphen"/>in you have been, to abhor the <hi>Spirit of Popery.</hi> Which, it is evident by what was lately acted among
+<pb n="18" facs="tcp:64358:13"/> us, is void of all Truth, and of all Mercy; nay, of common Humanity. None can truſt thoſe ſafely, that are poſſeſſed with it, when they are in Power. No Obligations can hold them, (for they had the greateſt to treat us otherwiſe than they did late<g ref="char:EOLhyphen"/>ly) no Promiſes, no Oaths, no Ties of Gratitude, are of any force to bind them; but this Spirit breaks through all, being the Spirit of Falſhood and Violence, made up of Perſidiouſneſs and Cruelty.</p>
+               <p>Witneſs the Tragedy it hath acted in <hi>France</hi> (if you will not take the Character of it, from what your Eyes have ſeen at home) which hath been ac<g ref="char:EOLhyphen"/>counted the moſt moderate of all the <hi>Catholick Coun<g ref="char:EOLhyphen"/>tries,</hi> as they call them: But they have taught us, that there is no ſuch thing as Moderation among them. For there they have not only violated the Faith of all <hi>Edicts, Treaties, Promiſes,</hi> and <hi>Oaths,</hi> but perſecuted thoſe of the Reformed Religion, in ſuch an outragious manner, that their Cruelty can ſcarcely be matched in the Hiſtory of the ancient Pagan Perſecution of the Primitive Chriſtians. And yet ſo little of common Honeſty there is in that Spirit, where it prevails; ſo little of ſhame, they have had the face to publiſh to the World, that no ſuch thing as ſeverity hath been uſed there; but they have made all their Converſions, in the moſt gentle and ſweeteſt Methods imaginable.</p>
+               <p>Be ſenſible, I beſeecli you, of the infinite Good<g ref="char:EOLhyphen"/>neſs of God, who hath prevented theſe gentle Methods here; in which, we have too much rea<g ref="char:EOLhyphen"/>ſon to think, they would have proceeded (had they not been ſeaſonably ſtopt) without ſhame,
+<pb n="19" facs="tcp:64358:13"/> without remorſe, without any tenderneſs; even for thoſe, who had been ſo fooliſh, as to aſſiſt them to undo themſelves and others.</p>
+               <p>For we ſee they had the confidence, ſo far to abuſe our late Soveraign, as to make him declare; That none of our Laws were violated, none of our Rights or Liberties invaded: When all the World ſaw them break through the very ſtrongeſt Laws, which were purpoſely made, for the ſecuri<g ref="char:EOLhyphen"/>ty of our moſt Holy Religion.</p>
+               <p>Let it be a warning to you, not to truſt them; though they give never ſuch goodly words, and engage their Faith to you in the moſt ſolemn Pro<g ref="char:EOLhyphen"/>miſes. Have nothing to do with that Spirit; which will infallibly delude you, if you hearken to it, into your deſtruction. Suffer not your ſelves by any artifice, to be inveigled into a Belief, that they can be innocent and harmleſs. For whatſo<g ref="char:EOLhyphen"/>ever Declarations they make to this purpoſe; they are mere Impoſtures, and moſt dangerous Snares, laid to entrap you: Perſecution being of the ve<g ref="char:EOLhyphen"/>ry Spirit of the Church of <hi>Rome;</hi> by its <hi>Princi<g ref="char:EOLhyphen"/>ples,</hi> by its <hi>Doctrines,</hi> and by its <hi>Practices;</hi> which cannot alter.</p>
+               <p>This hath been ſo clearly, and ſo lately de<g ref="char:EOLhyphen"/>monſtrated by thoſe of our Church, that I ſhall on<g ref="char:EOLhyphen"/>ly briefly remember you:</p>
+               <p>Their <hi>Principle</hi> is, That we who ſtand ſeparated from their Communion, are <hi>Hereticks;</hi> who muſt periſh everlaſtingly.</p>
+               <p>Their <hi>Doctrine</hi> is, That the Secular Power ought<g ref="char:punc">▪</g> to extirpate all thoſe, whom their Church con<g ref="char:EOLhyphen"/>demns, as Hereticks.</p>
+               <pb n="20" facs="tcp:64358:14"/>
+               <p>And their <hi>Practices</hi> are ſufficiently known to be conſonant to this: For where have they fail<g ref="char:EOLhyphen"/>ed, when they had Power, to exterminate thoſe of our Religion?</p>
+               <p>Bleſſed be God then, ſhould we all ſay, that this Spirit is, if not quite caſt out of theſe <hi>Three</hi> King<g ref="char:EOLhyphen"/>doms, in a fair way to be utterly diſabled from acting ſuch Tragedies among us, as they were ma<g ref="char:EOLhyphen"/>nifeſtly preparing for us; What ſhall we render to the Lord, for his Goodneſs towards us? Can it be ever forgotten by us? And how can we remember it, without ſuch Affections, as are ſuitable to ſuch a remarkable Deliverance?</p>
+               <p>Which is the <hi>Second</hi> Part of this Diſcourſe.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>We ought to reflect frequently upon our won<g ref="char:EOLhyphen"/>derful <hi>Deliveronce,</hi> from thoſe apparent dangers, wherewith we were compaſſed: and conſider what the remembrance of it requires of us.</p>
+               <p>There is no need, I hope to go about to prove that God hath wrought a great Deliverance for us. If any be ſo unhappy as to queſtion it, they may ſoon be reſolved, by asking themſelves; would we be willing to be in the ſame condition wherein we were Three years ago, in the Power of our Popiſh Enemies, who without the help of our Deliverer, might have done what they pleaſed with us? No body ſure can think of being in ſuch a Condition, with any ſatisfaction. And therefore I muſt con<g ref="char:EOLhyphen"/>clude we all own the great Mercy of God to us, in a moſt <hi>ſeaſonable Deliverance.</hi>
+               </p>
+               <pb n="21" facs="tcp:64358:14"/>
+               <p>Let us ſee how we ought to be affected with it. Which is a Subject very large and copious: but it may ſuffice to ſuggeſt theſe <hi>Four</hi> things to your Chriſtian Conſideration.</p>
+               <p>
+                  <hi>Firſt,</hi> We ought ſo to remember the Loving kindneſs of the Lord, as never to fail to bleſs and praiſe him for it, as long as we have a day to live.</p>
+               <p>
+                  <hi>Secondly,</hi> We ought to be very grateful to the glo<g ref="char:EOLhyphen"/>rious Inſtrument of our Deliverance.</p>
+               <p>
+                  <hi>Thirdly,</hi> Look upon our ſelves as preſerved on purpoſe by God, that we may live to the Praiſe and Glory of his Grace and Mercy towards us.</p>
+               <p>
+                  <hi>Fourthly,</hi> And then we may learn hereby, to place our truſt and confidence in the ſame Mercy for the time to come.</p>
+               <p>I. There can be no diſpute of the <hi>firſt</hi> of theſe, that the Praiſes of God ought to be continually in our Mouth; for the great thing he hath done for us. Nothing can be more unbecoming, nothing more diſingenuous and vile, than inſtead of this, to hear ſuch undutiful murmurings, repinings and com<g ref="char:EOLhyphen"/>plaints, as too many Mouths are filled withal. Which would be quite ſilenced, if we would make it our buſineſs, as it is our duty, to think how much we owe to God, and what thanks we ought to be giving continually, for the Deliverance he hath wrought for us; and for all the Bleſſings which by that means we enjoy.</p>
+               <p>There is nothing can be more rational than this.</p>
+               <pb n="22" facs="tcp:64358:15"/>
+               <p>II. And one would think, there ſhould be as little diſpute, about the <hi>Second:</hi> That we ought to be highly grateful to the <hi>Glorious Inſtrument of our De<g ref="char:EOLhyphen"/>liverance.</hi> For whoſe coming all Men longed. The News of whoſe arrival, was every where welcom<g ref="char:EOLhyphen"/>ed with the greateſt joy. Which I hope we have not already forgotten; nor ſuffered the Benefits we have received thereby, to ſlip out of our Mind. For we owe the happy Liberty we now enjoy, of worſhipping God here together, according to the Rules of the Goſpel, unto that Deliverance. Which hath been followed with a very long train of La<g ref="char:EOLhyphen"/>bours and Toils which His Majeſty hath undergone, and of marvellous Succeſſes God hath bleſſed him withal, for the confirming the Peace and Proſperi<g ref="char:EOLhyphen"/>ty, which is continued to us by his means. With how many Difficulties hath he wreſtled? Through what Hardſhips hath he waded? And to how great Hazards hath he expoſed his Royal Perſon, both this year and the laſt, that we might reap the peaceable Fruit of them in ſafety and eaſe? If it had not been for his Courage and Conduct, our <hi>Iriſh</hi> Bre<g ref="char:EOLhyphen"/>thren might have ſtill languiſhed under thoſe hea<g ref="char:EOLhyphen"/>vy Oppreſſions, from which they are now freed. The Common Enemy might have ſtill made greater ravages in our Neighbouring Countries, if he had not ſtood in the Gap to ſtop their Fury. Which we our ſelves might have felt long before this time, had not God raiſed him up to be our Deliverer, and ſtrengthned his Hands to maintain what he had atcheived.</p>
+               <pb n="23" facs="tcp:64358:15"/>
+               <p>How vaſt are the Obligations, which by theſe things he hath laid upon us? Can we think, that we have ever done enough for him, who hath done and endured ſo much for our Preſervation?</p>
+               <p>The ancient Heathens thought themſelves ſo much indebted to the Deliverers of their Country: that they ſet no bounds to their affection, but honoured them as <hi>Gods.</hi> This was an exceſs of Gratitude to them. But had they given them all the Honour that is ſhort of Divine, owned them <hi>for Gods up<g ref="char:EOLhyphen"/>on Earth;</hi> I mean for their <hi>Kings</hi> and Governours, they had not done amiſs. For Nature hath ever taught Mankind, to pay all manner of Service, to ſuch as ſaved their <hi>Lives,</hi> and redeemed their <hi>Li<g ref="char:EOLhyphen"/>berties,</hi> when they were in danger to loſe them. Which was all I am apt to think, that the ancient Heathen meant, by calling ſuch Perſons their <hi>Gods:</hi> That is, their <hi>Kings,</hi> their great <hi>Benefactors:</hi> Which was the Name they frequently gave to their <hi>Prin<g ref="char:EOLhyphen"/>ces,</hi> eſpecially to ſuch as had been their <hi>Deliverers.</hi> Whom they honoured under that Notion, while they lived; and ſuperſtitious Poſterity, purſued them with Divine Honours, when they were dead.</p>
+               <p>How could this Nation then do leſs, than own him for their King; who had been their Deliverer from Slavery, both of Soul and Body? This is no more than common Gratitude hath inclined all Mankind to do, for thoſe who only preſerved their <hi>Civil Liberties,</hi> when they were invaded. He that redeemed them, they thought had a good Title to them; and by reſcuing them from their Oppreſ<g ref="char:EOLhyphen"/>ſor, entred upon all the legal Rights belonging to
+<pb n="24" facs="tcp:64358:16"/> him. This hath been the conſtant Sence of all Nations.</p>
+               <p>And every good Man among us, who is of a contrary Judgment, I would willingly believe, ſe<g ref="char:EOLhyphen"/>riouſly laments his infelicity, that he cannot ac<g ref="char:EOLhyphen"/>knowledge his preſent Majeſty, with ſuch Grati<g ref="char:EOLhyphen"/>tude, as is due to ſo great a Benefactor. Which will not ſuffer thoſe who feel the leaſt touch of it, to <hi>do,</hi> or to <hi>ſpeak,</hi> or ſo much as <hi>think</hi> any thing, to the prejudice of him, who hath ventured his Life, many a time, to preſerve our Religion and Liber<g ref="char:EOLhyphen"/>ty. Yea, we ought in Gratitude to him, as well as out of love to our ſelves, to give him the utmoſt aſ<g ref="char:EOLhyphen"/>ſiſtance we are able, for the ſupport and ſecuri<g ref="char:EOLhyphen"/>ty of his Government: that is in truth, for the defence of our Country and Religion. Which is the only thing that he can be thought to deſign; unleſs it be the preſervation of the Reformed Re<g ref="char:EOLhyphen"/>ligion every where, and of the Liberties of theſe Parts of the World which are in danger, by the Ambition of a Powerful Oppreſſor. And this is matter of Joy to us, and Thanksgiving to God this day, that however ſome particular Perſons may be ill affected, the Body of the People, it appears by their Repreſentatives, are unanimouſly diſpoſed to grant His Majeſty a Supply as large as his De<g ref="char:EOLhyphen"/>ſires, for the carrying on what he hath ſo happily begun.</p>
+               <p>III. And if we look upon our Preſervation, as a moſt ſpecial Providence of God, a kind of New-Birth of this Nation, a Reſurrection from the Dead, or at leaſt, a Recovery from a deſperate Diſeaſe, a
+<pb n="25" facs="tcp:64358:16"/> Marvellous Deliverance, wherein the Wiſdom, Pow<g ref="char:EOLhyphen"/>er, and Goodneſs of God moſt ſeaſonably appeared, for our Reſcue from the moſt Dreadful Dangers; we cannot think He hath done all this for us, meer<g ref="char:EOLhyphen"/>ly that we may live, to eat, and drink, and ſleep in ſafety; much leſs, to ſatisfie our ſinful Luſts and Appetites: But that we may live to the Praiſe of the Glory of his Grace and Mercy towards us. For what elſe, ſhould God concern himſelf in our Pre<g ref="char:EOLhyphen"/>ſervation? And therefore let us make that uſe of it, to live as becomes a People that are ſaved by the Lord; to ſerve him faithfully in the ſteady and conſtant Performance of our Duty, according to the Directions of our Holy Religion; which he hath continued to us, in its Purity, by this Deli<g ref="char:EOLhyphen"/>verance.</p>
+               <p>Such an extraordinary Obligation, manifeſtly Challenges ſome extraordinary Return of Duty. But what Return, I beſeech you, have we as yet made, which may be thought in any meaſure ſuita<g ref="char:EOLhyphen"/>ble to the Benefits we have received? Nay, what have we not done, to provoke God to forſake us, after he hath been ſo wonderfully Kind to us? Is there any one Sin that we have amended? Doth not all manner of Prophaneneſs, doth not Hatred and Uncharitableneſs, abound as much as ever among us? When there hath been ſuch a great Change, an amazing Turn of Affairs by the late Re<g ref="char:EOLhyphen"/>volution; are any of our Hearts changed, and turned ſincerely to the Lord? Do not all Men go on in the old Tract, as if we had done Nothing amiſs?</p>
+               <pb n="26" facs="tcp:64358:17"/>
+               <p>I am very loth to put any melancholy Thoughts into your Minds, upon a Day of Rejoycing: But aſſure your ſelves, as it was God's Intention in this Deliverance, to move and engage us to be a better People; ſo if we defeat his Intentions, by continu<g ref="char:EOLhyphen"/>ing as bad as we were before, we ought in Reaſon to expect that He will alter the courſe of his Pro<g ref="char:EOLhyphen"/>vidence towards us. And, as <hi>Moſes</hi> elſewhere ſpeaks in this Book, (<hi>Deut.</hi> XXVIII. 63.) <hi>as he rejoyced over us to do us good; ſo he will rejoyce over us to deſtroy us, and bring us to nought.</hi> Let us not run this Hazzard, I beſeech you, but endeavour ſeriouſly, to anſwer his Expectation, by learning from this Deliverance <hi>to fear the Lord our God,</hi> (as <hi>Moſes</hi> ſpeaks, <hi>Deut.</hi> X. 11.) <hi>to walk in all his ways, and to love him, and ſerve him, with all our heart, and with all our ſoul; to keep the commandments of the Lord, and his ſtatutes, which he hath commanded us for our good.</hi> And then will the Lord love us, and bleſs us; he will multiply his Mercy upon us, and make us a truly Great and Hap<g ref="char:EOLhyphen"/>py People. <hi>For he is our praiſe, he is our God, who hath done for us, theſe great and terrible things which our Eyes have ſeen.</hi>
+               </p>
+               <p>IV. And hath taught us thereby, that did we that Remember his Mercies, in our late Deliverance, we might then hope in the ſame Mercy for the future: Yea, be confident, God will continue to proſper<g ref="char:punc">▪</g> Their Majeſties Arms, and bleſs them with greater Succeſſes, in the preſent War wherein they are en<g ref="char:EOLhyphen"/>gaged! Which we cannot but wiſh, unleſs we be in love with Calamities, or our Forgetfulneſs of former Dangers makes us fearleſs of any future; <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="27" facs="tcp:64358:17"/> our Diſcontents throw ſuch a Miſt before our Eyes, that we cannot diſcern our Friends from our Ene<g ref="char:EOLhyphen"/>mies.</p>
+               <p>Let me intreat you to conſider, what Deſolations threaten us here in a <hi>Proteſtant</hi> Country, if the <hi>French</hi> ſhould prevail; when they have made ſuch havock in <hi>Germany,</hi> among thoſe who are as <hi>Catho<g ref="char:EOLhyphen"/>lick</hi> as themſelves. Where they have laid the moſt Beautiful Cities in Aſhes; only becauſe they could not keep them any longer in their Poſſeſſion. As if the World were made for them alone, and none elſe were Worthy to inhabit it; but every Place muſt be made deſolate, if they cannot continue in it.</p>
+               <p>Unto what pitch of Proud Wrath, or rather Dia<g ref="char:EOLhyphen"/>bolical Fury are they arrived! Which may juſtly make us look upon them, not only as the Enemies of all <hi>Proteſtants,</hi> but of all <hi>Chriſtians;</hi> nay, of all <hi>Mankind.</hi> Whoſe Intereſt it is to Unite all their Power to pull them down and chain them up; that they may not be able to make any fur<g ref="char:EOLhyphen"/>ther Ravage in the World, with their Infernal Troops.</p>
+               <p>It is manifeſt at what they aim, and how they intend to treat all thoſe who become their Slaves: And therefore, as we have the higheſt reaſon to bleſs the Goodneſs of God this Day, for driving them out of the Kingdom of <hi>Ireland,</hi> where they deſigned, no doubt, to ſettle themſelves, as a fair ſtep to maſter us alſo; ſo it is the utmoſt degree of Infatuation to favour their Pretenſions, or not vi<g ref="char:EOLhyphen"/>gorouſly to oppoſe the progreſs of their Arms: For it is to oppoſe Robberies and Rapes, helliſh Cruel<g ref="char:EOLhyphen"/>ties
+<pb n="28" facs="tcp:64358:18"/> and utter Devaſtations: It is to aſſert the Com<g ref="char:EOLhyphen"/>mon Right of Mankind againſt a Boundleſs Oppreſ<g ref="char:EOLhyphen"/>ſor; who forges a Title at his Pleaſure, to any Coun<g ref="char:EOLhyphen"/>try, which he hath a mind to invade.</p>
+               <p>And he hath invaded ſo many, that there are in<g ref="char:EOLhyphen"/>numerable Souls in ſeveral places of the World, who cry out continually, in the Anguiſh of their Spirits, as the <hi>Pſalmiſt</hi> doth, <hi>O God, to whom vengeance be<g ref="char:EOLhyphen"/>longoth; O God, to whom vengeance belongeth, ſhew thy ſelf. Lift up thy ſelf, thou Judge of the earth: and ren<g ref="char:EOLhyphen"/>der a reward to the proud. Lord, how long ſhall the wicked, how long ſhall the wicked triumph? How long ſhall they ſpeak ſo diſdainfully, and make ſuch proud boaſting,</hi> &amp;c. And he who Rules in all the King<g ref="char:EOLhyphen"/>doms of the Children of Men, <hi>all whoſe works are truth, and his ways judgment, and thoſe that walk in pride he is able to abaſe;</hi> will at length hear the Sighs and Groans of thoſe poor Wretches whom that Op<g ref="char:EOLhyphen"/>preſſor hath made very miſerable: And will daſh likewiſe all the Deſigns that are againſt us here in thoſe Kingdoms; if we be not ſo ungrateful to Him, as <hi>not to regard the works of the Lord, nor the operati<g ref="char:EOLhyphen"/>ons of his hands.</hi>
+               </p>
+               <p>For when did the Hand of God appear more vi<g ref="char:EOLhyphen"/>ſibly, than it hath done of late, in Defeating the At<g ref="char:EOLhyphen"/>tempts that have been made in theſe <hi>Three</hi> King<g ref="char:EOLhyphen"/>doms, upon our Religion and Liberties? And can we think that God intends they ſhould riſe up again, who have been ſo remarkably confounded? No, ſurely, if we be not ſo wickedly unthankful, as to forget the Hand that hath ſaved us, or ſlight his Mercies towards us. There's the remaining Dan<g ref="char:EOLhyphen"/>ger; and therefore let us <hi>take heed to ourſelves, and
+<pb n="29" facs="tcp:64358:18"/> keep our Souls diligently, leſt we forget the things our Eyes have ſeen, and leſt they depart out of our Heart all the days of our Life.</hi>
+               </p>
+               <p>This is a thing which requires very great care, be<g ref="char:EOLhyphen"/>cauſe we are naturally forgetful Creatures, apt to be unmindful of Benefits; and in this particular Caſe, ſhall meet with many Attempts upon us, to make us (like the old <hi>Iſraelites</hi>) diſguſt our preſent Happineſs, and, in effect, wiſh our ſelves again in <hi>Egypt.</hi> Which I have not time left to repreſent ſo effectually as it de<g ref="char:EOLhyphen"/>ſerves; but muſt only intreat you to be aware of this Danger, and watch your ſelves ſo carefully, that no<g ref="char:EOLhyphen"/>thing efface the ſenſe of God's great Goodneſs to you, in the late Deliverance he hath given you.</p>
+               <p>And then he who hath hitherto heard our Prayers, will ſtill fulfil our humble Petitions. He will hear the Cry of thoſe miſerable People, who are undone by a haughty Oppreſſor: Though <hi>he bear long,</hi> (as it is in the Goſpel for this Day) <hi>he will avenge his own Elect; yea, he will avenge them ſpeedily.</hi> And we may rationally hope he will alſo preſerve us, from falling into his cruel Hands. He <hi>will ſtretch forth his Hand againſt the furiouſneſs of our Enemies: and put them to ſhame that hate us.</hi> He will go on to <hi>diſappoint them, and caſt them down;</hi> and as the Pſalmiſt elſewhere prays, <hi>reward them according to their Deeds, and accord<g ref="char:EOLhyphen"/>ing to the Wickedneſs of their own Inventions. Recom<g ref="char:EOLhyphen"/>pence them after the Work of their Hands; and pay them what they have deſerved.</hi> In one word, <hi>break them down, and not build them up.</hi>
+               </p>
+               <p>
+                  <hi>The Lord will perfect that which concerneth us: for his Mercy endureth for ever: He will not forſake the Work of his own Hands.</hi>
+               </p>
+               <pb n="30" facs="tcp:64358:19"/>
+               <p>But we may take the boldneſs to ſing on this Day of Thankſgiving, as the Church doth upon the like oc<g ref="char:EOLhyphen"/>caſion, <hi>Pſal.</hi> xlviii. 9, 14. <hi>We wait for thy loving kind<g ref="char:EOLhyphen"/>neſs, O God, in the midſt of thy Temple. This God</hi> (who hath done ſuch great things for us) <hi>is our God for ever and ever; He will be our Guide unto Death.</hi> Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:64358:19"/>
+            <head>Books lately printed for <hi>Richard Chiſwell.</hi>
+            </head>
+            <p>A New Hiſtory of the Succeſſion of the Crown of <hi>England,</hi> and more par<g ref="char:EOLhyphen"/>ticularly from the Time of King <hi>Egbert</hi> till King <hi>Henry</hi> the VIII. Collected from thoſe Hiſtorians who wrote of their own Times.</p>
+            <p>A Diſcourſe concerning the Unreaſonableneſs of a New Separation on ac<g ref="char:EOLhyphen"/>count of the Oaths: With an Anſwer to the Hiſtory of Paſſive Obedience, ſo far as relates to Them.</p>
+            <p>A Vindication of the ſaid Diſcourſe, concerning the Unreaſonableneſs of a New Separation, from the Exceptions made againſt it, in a Tract called, A<g ref="char:punc">▪</g> Brief Anſwer to the ſaid Diſcourſe, <hi>&amp;c.</hi>
+            </p>
+            <p>An Account of the Ceremony of Inveſting His Electoral<g ref="char:punc">▪</g> Highneſs of <hi>Bran<g ref="char:EOLhyphen"/>denburgh</hi> with the Order of the Garter at <hi>Berlin, June<g ref="char:punc">▪</g>
+               </hi> 6. 1690. By <hi>Jawes Johnſton</hi> Eſq. and <hi>Gregory King</hi> Eſq. His Majeſty's Commiſſioners.</p>
+            <p>Dr. <hi>Freeman</hi>'s Sermon at the Aſſizes at <hi>Northampton,</hi> before the Lord Chief Juſtice <hi>Pollexfen, Auguſt</hi> 26. 1690.</p>
+            <p>—His Thankſgiving Sermon before the Houſe of Commons, <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> 5. 1690.</p>
+            <p>Dr. <hi>Teniſon</hi>'s Sermon before the Queen, concerning the Wandring of the Mind in God's Service, <hi>Feb.</hi> 15. 1690.</p>
+            <p>—His Sermon before the Queen, of the Folly of Atheiſm <hi>Feb<g ref="char:punc">▪</g>
+               </hi> 22. 1690. Dr. <hi>Fowler</hi> (now Lord Biſhop of <hi>Glouceſter<g ref="char:punc">▪</g>
+               </hi>) his Sermon before the Queen, <hi>March</hi> 22. 1690.</p>
+            <p>The Biſhop of <hi>Sarum</hi>'s Sermon, at the Funeral of the Lady <hi>Brook, Feb<g ref="char:punc">▪</g>
+               </hi> 19. 1690.</p>
+            <p>—His Faſt<g ref="char:punc">▪</g> Sermon before the King and Queen, <hi>April</hi> 29. 1691.</p>
+            <p>Mr. <hi>Fleetwood</hi>'s Sermon at Chriſt's Church on St. <hi>Stephen</hi>'s Day.</p>
+            <p>A True and Impartial Hiſtory of the moſt Material Occurrences in the King<g ref="char:EOLhyphen"/>dom of <hi>Ireland</hi> during the Two laſt Years. With the preſent State of both Ar<g ref="char:EOLhyphen"/>mies. Publiſhed to prevent Miſtakes, and to give the World a Proſpect of the future Succeſs of their Majeſties Arms in that Nation. Written by an Eye<g ref="char:EOLhyphen"/>witneſs to the moſt Remarkable Paſſages.</p>
+            <p>A Full and Impartial Account of the ſecret Conſults, Negotiations, Strata<g ref="char:EOLhyphen"/>gems and Intrigues of the <hi>Romiſh</hi> Party in <hi>Ireland,</hi> from 1660, to 1689, for the Settlement of Popery in that Kingdom.</p>
+            <p>A Ground-Plot of the ſtrong Fort of <hi>Ch<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ement</hi> in <hi>Ireland,</hi> with the Town, River, Marſhes, Boggs, and Places adjacent. Drawn by Captain <hi>Hobſon,</hi> price 6 Pence.</p>
+            <p>An Exact Ground-Plot of <hi>London Derry,</hi> with the River, Woods, Ways and Places adjacent, by the ſame Captain <hi>Hobſon,</hi> price 6 <hi>d.</hi>
+            </p>
+            <p>A Proſpect of<g ref="char:punc">▪</g> 
+               <hi>Limerick,</hi> bearing due <hi>Weſt,</hi> exactly ſhewing the Approaches of the <hi>Engliſh</hi> Army, with the Batteries and Breach.</p>
+            <p>An Expoſition of the Ten Commandments. By Dr. <hi>Simon Patrick,</hi> now Lord Biſhop of <hi>Ely.</hi>
+            </p>
+            <p>The <hi>Lay Chriſtian</hi>'s Obligation to read the Holy Scriptures. By Dr. <hi>Stratford,</hi> now Lord Biſhop of <hi>Cheſter.</hi>
+            </p>
+            <p>A ſhore View of the Unfortunate Reigns of theſe Kings, <hi>William</hi> the <hi>2d. Henry</hi> the <hi>2d. Edward</hi> the <hi>2d. Richard</hi> the <hi>2d. Charles</hi> the <hi>2d.</hi> and <hi>James</hi> the <hi>2d.</hi>
+            </p>
+            <pb facs="tcp:64358:20"/>
+            <p>
+               <hi>Geologia:</hi> Or, A Diſcourſe concerning the Earth before the Deluge, wherein the Form and Properties aſcribed to it, in a Book intituled [<hi>The Theory of the Earth</hi>] are excepted againſt: And it is made appear, That the Diſſolution of that Earth was not the Cauſe of the Univerſal Flood. Alſo a new Explication of that Flood is attempted. By <hi>Eraſmus Warren,</hi> Rector of <hi>Worlington</hi> in <hi>Suffolk.</hi>
+            </p>
+            <p>The preſent State of <hi>Germany;</hi> or, an Account of the Extent, Riſe, Form, Wealth, Strength, Weakneſſes, and Intereſts of that Empire: The Prerogatives of the Emperor, and the Privileges of the Electors, Princes, and Free Cities, adapted to the preſent Circumſtances of that Nation. <hi>By a Perſon of Quality.</hi>
+            </p>
+            <p>The Judgment of God upon the <hi>Roman Catholick Church,</hi> from its firſt rigid<g ref="char:punc">▪</g> Laws for Univerſal Conformity to it, unto its laſt End. With a Proſpect of theſe near approaching Revolutions. <hi>viz.</hi> The Revival of the <hi>Proteſtant Proſeſion</hi> in an Eminent Kingdom, where it was totally ſuppreſſed. The laſt End of all <hi>Turkiſh</hi> Hoſtilities. The General Mortification of the Power of the <hi>Roman Church</hi> in all Parts of its Dominions. By <hi>DR<g ref="char:V">Ʋ</g>E CRESNER,</hi> D. D. <hi>4<hi rend="sup">to</hi>.</hi>
+            </p>
+            <p>Some Remarks upon the Eccleſiaſtical Hiſtory of the Ancient Churches of <hi>PIEDMONT.</hi> By <hi>PETER ALLIX,</hi> D. D.</p>
+            <p>A Vindication of their Majeſty's Authority, to fill the Sees of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Biſhops, in a Letter out of the Country, occaſioned by Dr. <hi>B</hi>—'s <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Biſhoprick of <hi>Bath</hi> and <hi>Wells. 4<hi rend="sup">to</hi>.</hi>
+            </p>
+            <p>
+               <hi>V. CL. G<g ref="char:V">Ʋ</g>LIELMI CAMDENI, &amp; Illuſtrium Virorum ad G. Camde<g ref="char:EOLhyphen"/>num EPISTOLAE. Cum Appendice varii Argumenti. Acceſſerunt Annali<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Regni Regis Jacob<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Apparatus, &amp; Commentarius de Antiquitate, Dignitate, &amp; Officio Comitis <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Angliae. Praemittitur G. Camdeni vita. Scriptore Thom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Smitho S. T. D. Eccleſiae Anglicanae Presbytero. 4<hi rend="sup">to</hi>.</hi>
+            </p>
+            <p>
+               <hi>MEMOIRS</hi> of what paſt in <hi>Chriſtendom</hi> from the War begun 1072 to the Peace concluded 1679. <hi>8vo.</hi>
+            </p>
+            <p>Remarks upon the Eccleſiaſtical Hiſtory of the Ancient Churches of the <hi>ALBIGENSES.</hi> By <hi>PETER ALLIX,</hi> D. D. Treaſurer of the Church of <hi>Sarum. 4<hi rend="sup">to</hi>.</hi>
+            </p>
+            <p>A Sermon Preached at <hi>White-Hall,</hi> on the <hi>26th</hi> of <hi>November,</hi> 1691<g ref="char:punc">▪</g> being the Thankſgiving-Day for the Preſervation of the King, and the Reduction of<g ref="char:punc">▪</g> 
+               <hi>Ire<g ref="char:EOLhyphen"/>land.</hi> By <hi>OILBERT</hi> Lord Biſhop of <hi>SAR<g ref="char:V">Ʋ</g>M. 4<hi rend="sup">to</hi>.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>PROPOSALS will be ſhortly publiſhed by <hi>Richard Chiſ<g ref="char:EOLhyphen"/>well,</hi> for Subſcription to a Book (now finiſhed) intituled, <hi>ANGLIAE SACRAE, PARS SEC<g ref="char:V">Ʋ</g>NDA; ſive Collectio Hiſtoriarum, antiquitus Scriptorum, de Archiepiſcopis &amp; Epiſcopis Angliae, à prima Fidei Chriſtianae Suſceptione, ad annum MDXL. Plures antiquas de Vitis &amp; Regni geſtis Praeſulum An<g ref="char:EOLhyphen"/>glicorum Hiſtorias ſine certo ordine congeſtas complexa.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
